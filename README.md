@@ -109,6 +109,9 @@ http://127.0.0.1:5000
 ---
 ## 📸 Screenshots
 
+### 🖥 Running from CLI
+![CLI](screenshots/running_cli.png)
+
 ### 🏠 Homepage + ISS Map
 ![Homepage](screenshots/homepage_iss.png)
 
@@ -120,9 +123,6 @@ http://127.0.0.1:5000
 
 ### 📊 Delay Graph
 ![Graph](screenshots/delay_graph.png)
-
-### 🖥 Running from CLI
-![CLI](screenshots/running_cli.png)
 
 ### 📡 Transmission Received
 ![Transmission](screenshots/transmission.png)
