@@ -112,20 +112,20 @@ http://127.0.0.1:5000
 ### 🖥 Running from CLI
 ![CLI](Screenshots/running_cli.png)
 
+### 🔐 Login Page
+![Login](Screenshots/login.png)
+
 ### 🏠 Homepage + ISS Map
 ![Homepage](Screenshots/homepage_iss.png)
 
-### 🔐 Login Page
-![Login](Screenshots/login.png)
+### 📡 Transmission Received
+![Transmission](Screenshots/transmission.png)
 
 ### 🌌 NASA APOD
 ![NASA](Screenshots/nasa_apod.png)
 
 ### 📊 Delay Graph
 ![Graph](Screenshots/delay_graph.png)
-
-### 📡 Transmission Received
-![Transmission](Screenshots/transmission.png)
 
 ## 👨‍💻 Author
 
