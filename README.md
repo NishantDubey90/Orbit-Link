@@ -110,22 +110,22 @@ http://127.0.0.1:5000
 ## 📸 Screenshots
 
 ### 🖥 Running from CLI
-![CLI](screenshots/running_cli.png)
+![CLI](Screenshots/running_cli.png)
 
 ### 🏠 Homepage + ISS Map
-![Homepage](screenshots/homepage_iss.png)
+![Homepage](Screenshots/homepage_iss.png)
 
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### 🌌 NASA APOD
-![NASA](screenshots/nasa_apod.png)
+![NASA](Screenshots/nasa_apod.png)
 
 ### 📊 Delay Graph
-![Graph](screenshots/delay_graph.png)
+![Graph](Screenshots/delay_graph.png)
 
 ### 📡 Transmission Received
-![Transmission](screenshots/transmission.png)
+![Transmission](Screenshots/transmission.png)
 
 ## 👨‍💻 Author
 
