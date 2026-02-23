@@ -50,6 +50,8 @@ OrbitLink/
 ├── app.py
 ├── templates/
 │   └── index.html
+    └── login.html
+├── screenshots/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
@@ -105,6 +107,25 @@ http://127.0.0.1:5000
 - 🌐 Public deployment  
 
 ---
+## 📸 Screenshots
+
+### 🏠 Homepage + ISS Map
+![Homepage + ISS Map](screenshots/Homepage + ISS Map.png)
+
+### 🔐 Login Page
+![Login Page](screenshots/Login Page.png)
+
+### 🌌 NASA APOD API
+![NASA APOD](screenshots/NASA APOD API.png)
+
+### 📊 Delay Graph
+![Delay Graph](screenshots/Delay Graph.png)
+
+### 🖥 Running Live from CLI
+![Running CLI](screenshots/Running Live from CLI.png)
+
+### 📡 Transmission Received
+![Transmission](screenshots/Trasmission Recieved.png)
 
 ## 👨‍💻 Author
 
